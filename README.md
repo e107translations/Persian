@@ -1,3 +1,3 @@
 # Persian Language Pack
 
-2013-05-03 v2.3.1 Under Maintenance!
+2021-02-08 v2.3.1 Under Maintenance!
