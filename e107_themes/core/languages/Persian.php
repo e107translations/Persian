@@ -1,0 +1,33 @@
+<?php
+define('LAN_THEME_1', 'قالب پیش فرض E107 فارسی طراحی شده توسط<a href="http://e107.org" title="E107.ORG" rel="external">E107 INC</a>');
+define('LAN_THEME_2', 'نظرات : ');
+define('LAN_THEME_3', 'نظرات برای این مطلب غیر فعال هستند.');
+define('LAN_THEME_4', 'ادامه مطلب');
+define('LAN_THEME_5', 'دنبالک : '); 
+define('LAN_THEME_8', 'در تاریخ');
+define('LAN_THEME_9', 'نویسنده : ');
+define("LAN_THEME_11", "آخرین اخبار");
+define("LAN_THEME_12", "ارسال مطلب به دوستان");
+define("LAN_THEME_13", "ایجاد فایل PDF");
+define("LAN_THEME_14", "نسخه قابل چاپ");
+define("LAN_THEME_15", "ویرایش");
+define('LAN_THEME_17', 'ورود');
+define('LAN_THEME_18', 'نام کاربری');
+define('LAN_THEME_19', 'کلمه عبور');
+define('LAN_THEME_20', 'ثبت نام');
+define('LAN_THEME_21', 'ورود');
+define('LAN_THEME_22', 'کلمه عبور را فراموش کرده اید ؟');
+define('LAN_THEME_23', 'خوش آمدید');
+define('LAN_THEME_24', 'مدیریت');
+define('LAN_THEME_26', 'تنظیمات');
+define('LAN_THEME_27', 'مشخصات');
+define('LAN_THEME_28', 'خروج');
+define('LAN_THEME_29', 'لیست جدیدترین ها');
+define('LAN_THEME_SING', 'ورود');
+define('LAN_THEME_REG', 'ثبت نام');
+define("LAN_SEARCH", "جستجو");
+define("LAN_SEARCH_SUB", "برو");
+define('LAN_THEME_SHARE', 'اشتراک این مطلب');
+define('LAN_THEME_VER', 'E107 فارسی نسخه ');
+define("CM_L13", "طراح");
+?>
