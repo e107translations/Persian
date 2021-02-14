@@ -79,7 +79,7 @@ define("LAN_CANCEL", "لغو");
 define("LAN_DATE", "تاریخ");
 define("LAN_DATE_POSTED", "تاریخ ارسال");
 define("LAN_POSTED_BY", "ارسال شده توسط");
-define("LAN_JSCONFIRM", "مطمئنی؟");
+define("LAN_JSCONFIRM", "مطمئنید؟");
 define("LAN_IP", "آی پی");
 define("LAN_IP_ADDRESS", "نشانی آی پی");
 define("LAN_AUTHOR", "نویسنده");
